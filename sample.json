@@ -1,0 +1,60 @@
+[
+    {
+        "filename": "Segment_1",
+        "id": "Segment_1",
+        "start": 2,
+        "end": 4,
+        "orientation": 0,
+        "color": "b",
+        "measurement": "Avg, Max",
+        "type": "fiber model"
+    },
+    {
+        "filename": "Segment_2",
+        "id": "Segment_2",
+        "start": 4,
+        "end": 10,
+        "orientation": 0,
+        "color": "b",
+        "measurement": "Avg, Max",
+        "type": "fiber model"
+    },
+    {
+        "filename": "Segment_3",
+        "id": "Segment_3",
+        "start": 10,
+        "end": 222,
+        "orientation": 0,
+        "color": "b",
+        "measurement": "Avg, Max",
+        "type": "fiber model"
+    },
+    {
+        "filename": "Segment_4",
+        "id": "Segment_4",
+        "start": 222,
+        "end": 1000,
+        "orientation": 0,
+        "color": "b",
+        "measurement": "Avg, Max",
+        "type": "fiber model"
+    },
+    {
+        "filename": "Power_Cable",
+        "id": "Power_Cable",
+        "measurement": null,
+        "type": "accessory model"
+    },
+    {
+        "filename": "USB_Cable",
+        "id": "USB_Cable",
+        "measurement": null,
+        "type": "accessory model"
+    },
+    {
+        "filename": "Cable_From_Deadpool",
+        "id": "Cable_From_Deadpool",
+        "measurement": null,
+        "type": "accessory model"
+    }
+]
